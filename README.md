@@ -5,7 +5,7 @@ Kelas    : IF-47-08
 NIM      : 103012330009
 Kelompok : 13
 
-1. Deskripsi Masalah
+Deskripsi Masalah
 Rancanglah model multi-linked list yang dapat memodelkan antara gerbong 
 dengan daftar penumpang beserta No. kursi dan harga tiket. Program anda harus 
 mengimplementasikan daftar dan semua fitur yang tercantum di bawah ini.

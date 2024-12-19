@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1733053056 source:c:\users\lulay\desktop\kuliah\semester 3\struktur data\tugas\[11] tugas besar\tugas_besar_kelompok_13\main.cpp
+	"train.h"
+
+1733064271 c:\users\lulay\desktop\kuliah\semester 3\struktur data\tugas\[11] tugas besar\tugas_besar_kelompok_13\train.h
+	<iostream>
+
+1732986806 c:\users\lulay\desktop\kuliah\semester 3\struktur data\tugas\[11] tugas besar\tugas_besar_kelompok_13\menu.h
+	<iostream>
+
+1733062099 source:c:\users\lulay\desktop\kuliah\semester 3\struktur data\tugas\[11] tugas besar\tugas_besar_kelompok_13\train.cpp
+	"train.h"
+
+1733049709 source:c:\users\lulay\desktop\kuliah\semester 3\struktur data\tugas\[11] tugas besar\tugas_besar_kelompok_13\menu.cpp
+
+1733053056 source:c:\users\lulay\desktop\kuliah\semester 3\struktur data\tugas\[11-15] tugas besar\tugas_besar_kelompok_13 - copy\main.cpp
+	"train.h"
+
+1733374783 c:\users\lulay\desktop\kuliah\semester 3\struktur data\tugas\[11-15] tugas besar\tugas_besar_kelompok_13 - copy\train.h
+	<iostream>
+
+1734606078 source:c:\users\lulay\desktop\kuliah\semester 3\struktur data\tugas\[11-15] tugas besar\tugas_besar_kelompok_13\main.cpp
+	"train.h"
+
+1734621053 c:\users\lulay\desktop\kuliah\semester 3\struktur data\tugas\[11-15] tugas besar\tugas_besar_kelompok_13\train.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+
+1734621248 source:c:\users\lulay\desktop\kuliah\semester 3\struktur data\tugas\[11-15] tugas besar\tugas_besar_kelompok_13\train.cpp
+	"train.h"
+
+1734076940 c:\users\lulay\desktop\kuliah\semester 3\struktur data\tugas\[11-15] tugas besar\tugas_besar_kelompok_13\menu.h
+
+1734076902 source:c:\users\lulay\desktop\kuliah\semester 3\struktur data\tugas\[11-15] tugas besar\tugas_besar_kelompok_13\menu.cpp
+	"menu.h"
+	"train.h"
+	"train.cpp"
+
+1734076966 c:\users\lulay\desktop\kuliah\semester 3\struktur data\tugas\[11-15] tugas besar\tugas_besar_kelompok_13\train.cpp
+	"train.h"
+

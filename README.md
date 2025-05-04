@@ -3,7 +3,7 @@
 Nama     : M. Rifqi Dzaky Azhad\
 Kelas    : IF-47-08\
 NIM      : 103012330009\
-Kelompok : 13\
+Kelompok : 13
 
 ## 📌 Deskripsi Masalah
 

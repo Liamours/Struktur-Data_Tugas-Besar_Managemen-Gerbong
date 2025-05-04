@@ -1,22 +1,35 @@
-Tugas Besar Struktur Data
+# 🚆 Tugas Besar Struktur Data – Multi-Linked List Gerbong Penumpang
 
 Nama     : M. Rifqi Dzaky Azhad
 Kelas    : IF-47-08
 NIM      : 103012330009
 Kelompok : 13
 
-Deskripsi Masalah
-Rancanglah model multi-linked list yang dapat memodelkan antara gerbong 
-dengan daftar penumpang beserta No. kursi dan harga tiket. Program anda harus 
-mengimplementasikan daftar dan semua fitur yang tercantum di bawah ini.
-  1. Insert data parent dari depan/belakang (5) 
-  2. Show all data parent (5)
-  3. Menghapus data parent dan childnya (5) 
-  4. Mencari data parent (5) 
-  5. Insert data child (10) 
-  6. Mengubah data parent / data child (10) 
-  7. Menampilkan seluruh data parent beserta childnya (15) 
-  8. Mencari data child pada parent tertentu (10)
-  9. Menghapus data child pada parent tertentu (15)
-  10. Menghitung total penumpang/ pendapatan setiap gerbong (10)
-  11. Main program (10)
+## 📌 Deskripsi Masalah
+
+Proyek ini bertujuan untuk mengimplementasikan **multi-linked list** yang memodelkan hubungan antara **gerbong** (parent) dan **penumpang** (child), termasuk informasi **nomor kursi** dan **harga tiket**. Sistem ini dapat digunakan untuk mengelola data penumpang secara efisien di dalam setiap gerbong kereta.
+
+## 🧩 Fitur yang Harus Diimplementasikan
+
+### ✅ Operasi pada Data Gerbong (Parent)
+
+1. ➕ **Insert data parent dari depan/belakang**
+2. 👁️ **Tampilkan seluruh data parent**
+3. ❌ **Hapus data parent beserta seluruh data child-nya**
+4. 🔍 **Cari data parent**
+
+### 👨‍👩‍👧 Operasi pada Data Penumpang (Child)
+
+5. ➕ **Insert data child ke dalam parent tertentu**
+6. 📝 **Ubah data parent / data child**
+7. 📄 **Tampilkan seluruh data parent beserta seluruh data child-nya**
+8. 🔎 **Cari data child dalam parent tertentu**
+9. 🗑️ **Hapus data child dalam parent tertentu**
+
+### 📊 Analisis Data
+
+10. 🔢 **Hitung total penumpang dan pendapatan dari setiap gerbong**
+
+### 🎯 Program Utama
+
+11. 🧪 **Main program dengan antarmuka interaktif**

@@ -1,9 +1,9 @@
 # 🚆 Tugas Besar Struktur Data – Multi-Linked List Gerbong Penumpang
 
-Nama     : M. Rifqi Dzaky Azhad
-Kelas    : IF-47-08
-NIM      : 103012330009
-Kelompok : 13
+Nama     : M. Rifqi Dzaky Azhad\
+Kelas    : IF-47-08\
+NIM      : 103012330009\
+Kelompok : 13\
 
 ## 📌 Deskripsi Masalah
 
